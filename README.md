@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: salodella1@gmail.com
 - 😄 Pronouns: Ele/dele
 
-## Saudações! Ingressando no mercado de trabalho com Analista de Dados!
+## Saudações! Ingressando no mercado de trabalho como Analista de Dados!
 <div align="center">
   <a href="https://github.com/MatyResolve">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatyResolve&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
