@@ -1,7 +1,7 @@
 # Olá! Eu sou Matheus Salomon !👋
 
 - 🌱 Atualmente estudando sobre Azure, Power BI e SQL 
-- 💬 Pergunte-me sobre o que um Analista de Dados faz e ficarei feliz em responde-lo = )
+- 💬 Pergunte-me sobre o que um Analista de Dados faz e ficarei feliz em responde-lo = 
 - 📫 Contate-me no email: salodella1@gmail.com
 - 😄 Pronouns: Ele/dele
 
